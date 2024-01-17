@@ -17,7 +17,7 @@ public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
         vector<vector<int>>answer;
         int n=intervals.size();
-        intervals.push();
+        intervals.push_back();
         
 
 
