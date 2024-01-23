@@ -137,11 +137,7 @@ if(count<k-1){
     cout<<"Kth largest element is :"<<hip.getMIn()<<endl;
     count++;
 }
-
-
     }
-
-
 }
 
 
